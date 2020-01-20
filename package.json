@@ -1,0 +1,22 @@
+{
+  "name": "alan",
+  "version": "1.0.0",
+  "description": "这是一个公共类库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alan055@github.com/Alan055/alan.js.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan055/alan.js/issues"
+  },
+  "homepage": "https://github.com/Alan055/alan.js#readme"
+}
